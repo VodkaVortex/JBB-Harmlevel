@@ -1,10 +1,8 @@
 # JBB-HarmLevel: A Harm-Level Dataset for Evaluating LLM Vulnerabilities
 
 <p align="center">
-  <a href="https://arxiv.org/abs/YOUR_ARXIV_ID"><img src="https://img.shields.io/badge/arXiv-paper-b31b1b.svg" alt="Paper"></a>
   <a href="https://github.com/VodkaVortex/JBB-harmlevel"><img src="https://img.shields.io/badge/dataset-JBB--HarmLevel-blue.svg" alt="Dataset"></a>
-  <img src="https://img.shields.io/badge/ICASSP-2025-green.svg" alt="ICASSP 2025">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-yellow.svg" alt="License"></a>
+  <img src="https://ieeexplore.ieee.org/document/11462247" alt="ICASSP 2025">
 </p>
 
 
